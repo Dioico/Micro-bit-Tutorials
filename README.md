@@ -1,1 +1,3 @@
 # Micro-bit-Tutorials
+Sotto trovi i PDF con le istruzioni.
+I video li trovi su : ...
